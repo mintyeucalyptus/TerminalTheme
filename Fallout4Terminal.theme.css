@@ -19,13 +19,13 @@
 
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
-  --rgb-highlight: 74, 239, 152; /* The main highlight color */
-  --rgb-background: 0, 9, 0; /* The main background color */
-  --rgb-text: 74, 239, 152; /* The color (almost) all text should use */
+  --rgb-highlight: #bb9af7; /* The main highlight color */
+  --rgb-background: #1a1b26; /* The main background color */
+  --rgb-text: #9aa5ce; /* The color (almost) all text should use */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
-  --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
-  --rgb-afk-color: 255, 255, 51; /* The color used in the "idle" user status symbol */
-  --rgb-dnd-color: 255, 0, 0; /* The color used in the "do not disturb" user status symbol */
+  --rgb-online-color: #9ece6a; /* The color used in the "online" user status symbol */
+  --rgb-afk-color: #ff9e64; /* The color used in the "idle" user status symbol */
+  --rgb-dnd-color: #f7768e; /* The color used in the "do not disturb" user status symbol */
   --rgb-streaming-color: 188, 19, 254; /* The color used in the "streaming X" user status symbol */
 
   --transition-time: .3s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
